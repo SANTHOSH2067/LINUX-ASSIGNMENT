@@ -1,0 +1,26 @@
+What is Linux? Linux is the kernel which 
+communicate directly with Hw
+2. What is the difference between Linux and Unix? 
+Linux is the kernel and unix is an OS
+3. What is Linux Kernel? Is it legal to edit Linux 
+Kernel? Yes, Linux kernel is free and can be 
+modified by anyone.
+4. What is LILO? it is boot loader which permit to 
+select which OS in a machine needs to be used
+5. What are the basic components of Linux? The 
+kernel, X Server, Applications, Desktop 
+environment
+6. Which are the Shells used in Linux? It is called 
+bash
+7. What is Swap Space? it is the space used in the 
+disk instead of the memory
+8. What is the difference between BASH and DOS? 
+in bash / is a directory while in DOS it is \. Bash 
+is case sensitive
+9. What command would you use to check how 
+much memory is being used by Linux? free 
+command can be used
+10. Explain file permission in Linux
+File permissions in Linux determine who can read, 
+write, or execute files and directories, with 
+settings for the owner, group, and others.
